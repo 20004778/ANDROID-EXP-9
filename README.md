@@ -11,8 +11,21 @@ To develop a application to add animation to imageview,move,blink,fade,clockwise
 Android Studio(Min.required Artic Fox)
 
 ## ALGORITHM:
+Step 1: Open Android Studio and then click on File -> New -> New project.
 
+Step 2: Then type the Application name as "androidanimation" and click Next.
 
+Step 3: Then select the Minimum SDK as shown below and click Next.
+
+Step 4: Then select the Empty Activity and click Next. Finally click Finish.
+
+Step 5: Design layout in activity_main.xml.
+
+Step 6: Create a anim folder under res and create the xml files for the animation operators.
+
+Step 7: Add animation operations in MainActivity file.
+
+Step 8: Save and run the application.
 
 ## PROGRAM:
 ```
@@ -309,8 +322,6 @@ clockwise.xml
 </set>
 ```
 ## OUTPUT
-
-
 ![1](https://user-images.githubusercontent.com/75236145/174520588-154a0a58-b9bd-4deb-b22c-b69f030f135a.png)
 ![2](https://user-images.githubusercontent.com/75236145/174520587-20d0401f-405d-4f31-b354-c26dbb844596.png)
 ![3](https://user-images.githubusercontent.com/75236145/174520583-5c35237d-317e-4f34-b5d5-ee23e6e2ff52.png)
@@ -318,11 +329,6 @@ clockwise.xml
 ![5](https://user-images.githubusercontent.com/75236145/174520608-399af54c-7e8f-459c-9af9-f5e713e46318.png)
 ![6](https://user-images.githubusercontent.com/75236145/174520596-f35a3873-b1a2-415c-a6f1-9465b78f8954.png)
 ![7](https://user-images.githubusercontent.com/75236145/174520599-a28c433d-e256-4bf3-9194-b9b26d0fe370.png)
-
-
-
-
-
 
 ## RESULT
 Thus a Simple Android Application to add animations: Move,blink,fade,clockwise,zoom,slide operations using Android Studio is developed and executed successfully.
